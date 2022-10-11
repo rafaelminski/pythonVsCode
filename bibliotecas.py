@@ -2,6 +2,7 @@ import random
 from faker import Faker
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
+import datetime
 
 fake=Faker()
 nomes = []
